@@ -9,4 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/one.unity
     guid: e02120dda3fcbd040a3d9f3c06a11cef
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9c653fa0f60934d84b13e91f8ca6d2b8, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: f11ed909de9c24f5e8f5c7577d20ead3, type: 2}
     com.unity.addressableassets: {fileID: 11400000, guid: 18690ced52653734fa59d83eae8b3d70, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 19e50b82cb6fb4fc7b70297d57990ed8, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c56ac8715ef4c47e898d5d7ae4d4a1d1, type: 2}
+  m_UseUCBPForAssetBundles: 0

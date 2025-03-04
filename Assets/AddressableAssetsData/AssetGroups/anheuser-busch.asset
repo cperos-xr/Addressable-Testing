@@ -13,57 +13,10 @@ MonoBehaviour:
   m_Name: anheuser-busch
   m_EditorClassIdentifier: 
   m_GroupName: anheuser-busch
-  m_Data:
-    m_SerializedData: []
   m_GUID: 0d471cab2defbfb43a41c22769b2d5b1
   m_SerializeEntries:
-  - m_GUID: c6267ce9187d2a244922307e9e8d9f6a
-    m_Address: anheuser-busch
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: abfe79c679e697c4fa26f840df1640ca
-    m_Address: two
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 55f64db015f67f84fab89b9e56e4075f
-    m_Address: Frame
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 5e7a4b947c4dffa43bb3d702e4100b7d
-    m_Address: CLY-Iris_Color
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 43a62d4878ce6cd418e2db4f39a55039
-    m_Address: CLY-IrisRing_Alpha
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 55b8bf19bf976a74ab716ac335b067e6
-    m_Address: CLY-Mouth_Color
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 44360e881e0a733439932e4ffca6a8b6
-    m_Address: CLY-Mouth_Normals
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 3e99b03bf72ee1147a8646c97928a934
-    m_Address: CLY-Mouth_Refl-Mask
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: e254191d830182344899d4a9ab5d8c5a
-    m_Address: CLY-Sclera+Cornea_Bump
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: de4f998e0c881bb4aadfe7ae26f29966
-    m_Address: CLY-Sclera_Color
+  - m_GUID: 02841b16a0670b641bb726dc47fa8a22
+    m_Address: Pedestal_Pedestal_MaskMap
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -72,63 +25,8 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: bf34f8740f76e584c88eebc148560d86
-    m_Address: CLY_Color
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 4efef44ab4b132f47ab3b0e5151db3e1
-    m_Address: CLY_Normals
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 46ae3c6520b936046ae9b749306e0129
-    m_Address: HORSE
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 333b02cfdf232aa44ab4515695cb78c0
-    m_Address: HORSE
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: f677b6f8be5126e4e980031a28a28a8b
-    m_Address: logo
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 588136b4235c72745b25c07ba6c9f4d3
-    m_Address: logo(thin)
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 82420f5723251a742b9d142893f9f7f0
-    m_Address: ManeUV_standardSurface1_BaseMap
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 6c5d3405ede05944e95be5acb24ca6aa
-    m_Address: ManeUV_standardSurface1_MaskMap
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: bca8e31619d2bbe4d90a2c379db9bb94
-    m_Address: ManeUV_standardSurface1_Normal
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: a654854c1b683a04aaf49e151e76190e
-    m_Address: Map
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: a878c0c65a281154d8e43c50c4d1c635
-    m_Address: minimapModel1
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 9e17b015230f16740b30579336777929
-    m_Address: Pedestal
+  - m_GUID: 08f95899e3612584fb599d50e349e763
+    m_Address: Tail_standardSurface1_Normal
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -137,18 +35,73 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b77e7af544aff941aca532ada8048b3
+    m_Address: SM_Frame_Ornate_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 333b02cfdf232aa44ab4515695cb78c0
+    m_Address: HORSE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e99b03bf72ee1147a8646c97928a934
+    m_Address: CLY-Mouth_Refl-Mask
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 43a62d4878ce6cd418e2db4f39a55039
+    m_Address: CLY-IrisRing_Alpha
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44360e881e0a733439932e4ffca6a8b6
+    m_Address: CLY-Mouth_Normals
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 46ae3c6520b936046ae9b749306e0129
+    m_Address: HORSE
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 48d078114cd90f64eb5f7498323f51e7
     m_Address: Pedestal_Pedestal_BaseMap
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 02841b16a0670b641bb726dc47fa8a22
-    m_Address: Pedestal_Pedestal_MaskMap
+  - m_GUID: 4efef44ab4b132f47ab3b0e5151db3e1
+    m_Address: CLY_Normals
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: a4e43ab12bd75f547a18738ddf0318d4
-    m_Address: Pedestal_Pedestal_Normal
+  - m_GUID: 4f7681b1d266f45d2859272d9fdf70ca
+    m_Address: ReferenceImageLibrary 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55b8bf19bf976a74ab716ac335b067e6
+    m_Address: CLY-Mouth_Color
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55f64db015f67f84fab89b9e56e4075f
+    m_Address: Frame
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 588136b4235c72745b25c07ba6c9f4d3
+    m_Address: logo(thin)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e7a4b947c4dffa43bb3d702e4100b7d
+    m_Address: CLY-Iris_Color
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c5d3405ede05944e95be5acb24ca6aa
+    m_Address: ManeUV_standardSurface1_MaskMap
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -157,23 +110,18 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: fb0cd8e0dfa03b746aa3ac343a770ca3
-    m_Address: Tail_standardSurface1_MaskMap
+  - m_GUID: 82420f5723251a742b9d142893f9f7f0
+    m_Address: ManeUV_standardSurface1_BaseMap
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 08f95899e3612584fb599d50e349e763
-    m_Address: Tail_standardSurface1_Normal
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 1b77e7af544aff941aca532ada8048b3
-    m_Address: SM_Frame_Ornate_01
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: bc337f043ada4a243a8acfe9979f9d5e
+  - m_GUID: 9dc1414c6744cf24b9bef707b03c0c32
     m_Address: T_Frame_Ornate_01_Albedo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e17b015230f16740b30579336777929
+    m_Address: Pedestal
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -182,13 +130,78 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: fbcc72590b370ae4dbfeade174b70a05
-    m_Address: T_Frame_Ornate_01_RMA
+  - m_GUID: a4e43ab12bd75f547a18738ddf0318d4
+    m_Address: Pedestal_Pedestal_Normal
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 9dc1414c6744cf24b9bef707b03c0c32
+  - m_GUID: a654854c1b683a04aaf49e151e76190e
+    m_Address: Map
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8669032459944ce3af94026626f6106
+    m_Address: Poster2(LowQuality)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a878c0c65a281154d8e43c50c4d1c635
+    m_Address: minimapModel1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: abfe79c679e697c4fa26f840df1640ca
+    m_Address: two
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc337f043ada4a243a8acfe9979f9d5e
     m_Address: T_Frame_Ornate_01_Albedo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bca8e31619d2bbe4d90a2c379db9bb94
+    m_Address: ManeUV_standardSurface1_Normal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf34f8740f76e584c88eebc148560d86
+    m_Address: CLY_Color
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6267ce9187d2a244922307e9e8d9f6a
+    m_Address: anheuser-busch
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dce4ed5322015487c93f6fb66c754ed9
+    m_Address: Poster1(LowQuality)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de4f998e0c881bb4aadfe7ae26f29966
+    m_Address: CLY-Sclera_Color
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e254191d830182344899d4a9ab5d8c5a
+    m_Address: CLY-Sclera+Cornea_Bump
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f677b6f8be5126e4e980031a28a28a8b
+    m_Address: logo
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb0cd8e0dfa03b746aa3ac343a770ca3
+    m_Address: Tail_standardSurface1_MaskMap
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fbcc72590b370ae4dbfeade174b70a05
+    m_Address: T_Frame_Ornate_01_RMA
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
